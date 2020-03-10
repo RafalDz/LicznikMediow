@@ -1,0 +1,14 @@
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\bin\Debug\Licznik Mediów.exe.config
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\bin\Debug\Licznik Mediów.exe
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\bin\Debug\Licznik Mediów.pdb
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\bin\Debug\Licznik Mediów.xml
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik Mediów.vbprojResolveAssemblyReference.cache
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik_Mediów.Form1.resources
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik_Mediów.Resources.resources
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik Mediów.vbproj.GenerateResource.Cache
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik Mediów.exe
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik Mediów.xml
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik Mediów.pdb
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\DANE\2 Programowanie\VisualStudio\Licznik Mediów\Licznik Mediów\obj\Debug\Licznik_Mediów.Form2.resources
